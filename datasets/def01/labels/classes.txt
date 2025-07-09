@@ -1,0 +1,4 @@
+bicycle
+motorcycle
+Shared_bicycle
+Hire_motorcycle

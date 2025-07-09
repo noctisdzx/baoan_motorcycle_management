@@ -1,0 +1,9 @@
+names:
+  0: bicycle
+  1: motorcycle
+  2: Shared_bicycle
+  3: Hire_motorcycle
+path: F:\digital archtecture\graduate study\code\baoan\smart_motorcyclecycle_management\datasets\aaa
+test: null
+train: images/train
+val: images/val
