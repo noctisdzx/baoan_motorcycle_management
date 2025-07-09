@@ -1,10 +1,13 @@
 # baoan_motorcycle_management
 
 代码文件在ultralytics-main\bzd_code这个位置
-其中all是主要程序，半自动标注等展示流程都在其中
+
+其中all是主要程序，半自动标注等功能都在其中
 
 datasets文件夹是数据集的保存位置
+
 output_result文件夹是输出的预测视频的位置
+
 pretrain_model文件夹是预训练模型的位置
 
 加入了违停预测的功能（region_count.py）
